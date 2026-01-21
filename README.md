@@ -14,3 +14,9 @@ through continuous learning and hands-on practice.
 
 ### 🌐 Networking
 > https://certs.ibsec.com.br/?cert_hash=b13714ddf3c4f3c4
+>
+
+
+### 💻 Programming & Dev
+> https://www.pr.senac.br/downloads/certificados/pdf/212024000223252.pdf
+> >
